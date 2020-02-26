@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.bg-image{
+    background-image: url(images/biography-bg.png);
+}
+h4{
+    color: orange;
+}
+.price{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 10px 20px 40px lightslategrey;
+    border-radius: 15px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.categories{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
